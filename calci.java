@@ -1,0 +1,3 @@
+interface calci{
+ int sum();
+}
