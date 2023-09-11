@@ -4,7 +4,7 @@ interface calci{
 }
 class calciImpl implements calci
 {
-public int sum(int a ,int b);
+public int sum(int a ,int b)
 { 
 return a+b;
 }
