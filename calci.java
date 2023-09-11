@@ -2,9 +2,9 @@ import java.util.Scanner;
 interface calci{
  int sum(int a, int b );
 }
- class calciImpl implements calci
+class calciImpl implements calci
 {
-public int add(int a ,int b);
+public int sum(int a ,int b);
 { 
 return a+b;
 }
